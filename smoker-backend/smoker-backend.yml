@@ -4,3 +4,4 @@ spring.data.mongodb.port: 9903
 spring.data.mongodb.database: "smoker"
 spring.data.mongodb.username: "robbert"
 spring.data.mongodb.password: "flQks78098fsddLJKiouf423Qljweqe"
+passdtest: {cipher}6a24d5d3729685510a022283cf7f4e79c4418d2125c70d9165e0d8056457a800b3ead30d709982ac148f52c98b5dc0ce
