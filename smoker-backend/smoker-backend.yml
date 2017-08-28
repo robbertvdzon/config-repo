@@ -1,5 +1,5 @@
 example.property: "I AM THE DEFAULT"
-spring.data.mongodb.host: "test.mongo.vdzon.com"
+spring.data.mongodb.host: "{cipher}04f81c7804e34d6823093a01fb3ab87e746d3228779b4ab1e3d1bd4a99be4c772baa87a37338451cf5440a83b1f2e43d"
 spring.data.mongodb.port: 9903
 spring.data.mongodb.database: "smoker"
 spring.data.mongodb.username: "robbert"
