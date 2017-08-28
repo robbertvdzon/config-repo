@@ -3,6 +3,4 @@ spring.data.mongodb.host: "test.mongo.vdzon.com"
 spring.data.mongodb.port: 9903
 spring.data.mongodb.database: "smoker"
 spring.data.mongodb.username: "robbert"
-spring.data.mongodb.password: "flQks78098fsddLJKiouf423Qljweqe"
-#passdtest2: "{cipher}6a24d5d3729685510a022283cf7f4e79c4418d2125c70d9165e0d8056457a800b3ead30d709982ac148f52c98b5dc0ce"
-passdtest2: "{cipher}c24b45bb621ff4c281eacdb489341e88bd68a21b3a61da0acf896f22649c5e72"
+spring.data.mongodb.password: "f7fde39a4361d5058b70f155a6ff7f9b2e1f1c86e8389b0ef48c4212c2221475f4386290c91db3bf8bc0805163c9888c"
