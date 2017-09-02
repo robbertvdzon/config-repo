@@ -1,5 +1,5 @@
 configuratie.profiel: "Test"
 spring.data.mongodb.host: "test.mongo.vdzon.com"
 spring.data.mongodb.password: "{cipher}f7fde39a4361d5058b70f155a6ff7f9b2e1f1c86e8389b0ef48c4212c2221475f4386290c91db3bf8bc0805163c9888c"
-spring.social.facebook.appId: 481472068897350
-spring.social.facebook.appSecret: 9e4bb1101759cb0f5617689db79e8089
+spring.social.facebook.appId: 116123732345804
+spring.social.facebook.appSecret: c6a36ba250029e118c5de73f6f2f747e
