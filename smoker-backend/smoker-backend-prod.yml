@@ -1,3 +1,5 @@
 configuratie.profiel: "Productie"
 spring.data.mongodb.host: "productie.mongo.vdzon.com"
 spring.data.mongodb.password: "{cipher}95f925f321c7475300faa92cc52ac871efac40b40bd31b2178dad7752429ba2515fa3eda858e34ee24363452dbba5bb83ccc95db76d8bf454aeaeb352aa42ed5"
+spring.social.facebook.appId: 229336244258259
+spring.social.facebook.appSecret: 50e187731ede102fbcebddfc9a375f39
