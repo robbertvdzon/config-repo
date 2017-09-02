@@ -1,4 +1,4 @@
-example.property: "I AM THE DEFAULT"
+configuratie.profiel: "Not set"
 spring.data.mongodb.port: 9903
 spring.data.mongodb.database: "smoker"
 spring.data.mongodb.username: "robbert"
