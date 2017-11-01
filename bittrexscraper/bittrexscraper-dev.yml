@@ -1,5 +1,5 @@
 configuratie.profiel: "Dev"
-server.port: 88
+server.port: 8881
 spring.jpa.hibernate.ddl-auto: update
 spring.datasource.url: jdbc:mysql://localhost:3306/bittrex
 spring.datasource.username: admin
